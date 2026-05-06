@@ -1,0 +1,4 @@
+vk-api
+gspread
+oauth2client
+streamlit
